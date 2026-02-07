@@ -9,23 +9,24 @@ Please enjoy this image of a cat I found on the internet.
 
 [Click Here](readme.md) to see another file in the repository.
 
+I also have an example of scientific notation with subscript here: VO<sub>2</sub>. But wait! Theres more! I can also use dot notation! V&#x0307;O<sub>2</sub>.
+
 
 
 
 **Document Requirements**
-- A centered title
-- An image positioned beside text
-- A hyperlink to another markdown file in the repository
-    - readme.md or other option
- - Scientific notation/subscript/superscript
- - hyperlink that navigates into a subfolder **or**
- - a manually constructed table of contents using github anchor links
- - one of the following
-     - a code block
-     - Mermaid diagram
-     - a dynamic badge (shields.io)
-     - advanced table layout requiring markdown and html
-  - Correct rendering of true scientific dot notation in vo2
+- [x] A centered title
+- [x] An image positioned beside text
+- [x] A hyperlink to another markdown file in the repository (readme.md)
+- [x] Scientific notation/subscript/superscript
+- [ ] hyperlink that navigates into a subfolder **or**
+- [ ] a manually constructed table of contents using github anchor links
+- [ ] one of the following
+     - [ ] a code block
+     - [ ] Mermaid diagram
+     - [ ] a dynamic badge (shields.io)
+     - [ ] advanced table layout requiring markdown and html
+- [ ] Correct rendering of true scientific dot notation in vo2
 
 
   
